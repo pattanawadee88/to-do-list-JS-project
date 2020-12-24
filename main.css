@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+.container{
+    display: flex;
+    margin: auto;
+    padding: 3em;
+    background-color: aquamarine;
+}
+.to-do-list-container{
+    background-color: wheat;
+    width: 60%;
+    height: 400px;
+    margin: auto;
+    padding: 2em;
+}
+.list{
+    width: 50%;
+    height: 40px; 
+}
+button{
+    background-color: yellow;
+    display: inline;
+    padding: 1em;
+}
