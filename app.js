@@ -26,4 +26,7 @@ $(document).ready(function(){
       alert("There is something wrong.");
     }
   })
+  $("#delete-all-btn").click(function(){
+    $(".task").empty(); 
+  })
 })

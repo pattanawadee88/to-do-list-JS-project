@@ -15,10 +15,13 @@ i{
 
 }
 button{
+    color: white;
     display: inline;
     padding: 0.5em;
     margin-left: 1em;
     border-radius: 10px;
+    border: none;
+    background-color: #2A9D8F;
 }
 /* Class elements */
 .container{
